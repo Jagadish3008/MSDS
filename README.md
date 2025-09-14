@@ -42,8 +42,8 @@ Tech: `Python` `Robotics` `Sensors`
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://linkedin.com/in/jagadish3008)  
-- 📫 Email: youremail@example.com  
+- 🌐 [LinkedIn]([https://linkedin.com/in/jagadis](https://www.linkedin.com/in/jagadish-kumar-pakalapati-879b24357))  
+- 📫 Email:pakalapatijagadish@gmail.com  
 
 ---
 
